@@ -3,7 +3,7 @@
 // Purpose:   	A short description of the interface.
 //
 // Created on:  25.10.2019 at 22:42:17 by Janusz Kaczmarek.
-// 				University of Zielona Góra.
+// 				University of Zielona GÃ³ra.
 //==============================================================================
 
 		
