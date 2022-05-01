@@ -1,5 +1,5 @@
 # BClient
-Client application for VersICaL and GIQS impedance bridges
+Client application for VersICaL and GIQS impedance bridges.
 
 The folder `LabWindows` contains the source code of the BClient application written in C under NI LabWindows/CVI. 
 
